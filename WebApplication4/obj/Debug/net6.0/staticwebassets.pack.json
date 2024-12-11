@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\css\\accountStyle.css",
+      "PackagePath": "staticwebassets\\css\\accountStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanBlackFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanBlackFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanBoldFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanBoldFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanExtraBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanExtraBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanExtraBlackFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanExtraBlackFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanExtraBoldFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanExtraBoldFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanLightFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanLightFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanMediumFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanMediumFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanRegular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanRegular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanRegularFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanRegularFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanThin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\fonts\\IRANYekanThinFaNum.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanThinFaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\model\\Signup.cs",
+      "PackagePath": "staticwebassets\\model\\Signup.cs"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\static\\img\\Screenshot 2024-12-11 103147.png",
+      "PackagePath": "staticwebassets\\static\\img\\Screenshot 2024-12-11 103147.png"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\static\\img\\Screenshot 2024-12-11 122551.png",
+      "PackagePath": "staticwebassets\\static\\img\\Screenshot 2024-12-11 122551.png"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\static\\img\\iran.png",
+      "PackagePath": "staticwebassets\\static\\img\\iran.png"
+    },
+    {
+      "Id": "C:\\Users\\mo\\source\\repos\\WebApplication4\\WebApplication4\\wwwroot\\static\\img\\world.png",
+      "PackagePath": "staticwebassets\\static\\img\\world.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication4.props",
+      "PackagePath": "build\\WebApplication4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication4.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication4.props",
+      "PackagePath": "buildTransitive\\WebApplication4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

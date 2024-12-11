@@ -1,0 +1,226 @@
+
+@font-face {
+    font-family: farsi-bold;
+    src: url('../fonts/IRANYekanBold.ttf');
+}
+
+@font-face {
+    font-family: farsi-medu;
+    src: url('../fonts/IRANYekanMedium.ttf');
+}
+
+@font-face {
+    font-family: farsi-light;
+    src: url('../fonts/IRANYekanMedium.ttf');
+}
+
+@font-face {
+    font-family: farsi-numb;
+    src: url('../fonts/IRANYekanRegularFaNum.ttf');
+}
+
+body {
+    font-family: farsi-medu;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.f-img {
+    min-width: 741px;
+    min-height: 741px;
+    max-width: 741px;
+    max-height: 741px;
+    display: block;
+}
+
+form {
+    width: max-content;
+    margin: 50px 300px;
+}
+
+.group {
+    position: relative;
+    margin: 40px 0 0 0;
+    width: 100%;
+}
+
+.input {
+    font-size: 16px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 265px;
+    border: none;
+    border-bottom: 1px solid #515151;
+    background: transparent;
+}
+
+    .input:focus {
+        outline: none;
+    }
+
+label {
+    color: #999;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    top: 10px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}
+
+.input:focus ~ label, .input:valid ~ label {
+    top: -20px;
+    font-size: 14px;
+    color: #5264AE;
+}
+
+.bar {
+    position: relative;
+    display: block;
+    width: 200px;
+}
+
+    .bar:before, .bar:after {
+        content: '';
+        height: 2px;
+        width: 0;
+        bottom: 1px;
+        position: absolute;
+        background: #6a50d1;
+        transition: 0.2s ease all;
+        -moz-transition: 0.2s ease all;
+        -webkit-transition: 0.2s ease all;
+    }
+
+    .bar:before {
+        left: 50%;
+    }
+
+    .bar:after {
+        right: 50%;
+    }
+
+.input:focus ~ .bar:before, .input:focus ~ .bar:after {
+    width: 50%;
+}
+
+.highlight {
+    position: absolute;
+    height: 60%;
+    width: 100px;
+    top: 25%;
+    left: 0;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.input:focus ~ .highlight {
+    animation: inputHighlighter 0.3s ease;
+}
+
+.dir {
+    direction: rtl;
+}
+
+@keyframes inputHighlighter {
+    from {
+        background: #6a50d1;
+    }
+
+    to {
+        width: 0;
+        background: transparent;
+    }
+}
+
+.form-head {
+    text-align: center;
+}
+
+.log-in {
+    margin: auto;
+    background-color: #6a50d1;
+    width: 150px;
+    color: #fff;
+    outline: none;
+    font-family: farsi-medu;
+    border: none;
+    border-radius: 40px;
+    height: 50px;
+}
+
+.line {
+    display: inline-block;
+    height: 0.5px;
+    width: 50px;
+    background-color: #515151;
+    margin: auto;
+}
+
+.btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.forget-pass {
+    font-size: small;
+    width: 100%;
+    display: inline-block;
+    direction: ltr;
+}
+
+a.log-in {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    & p
+
+{
+    margin: 0;
+    font-size: small;
+}
+
+}
+
+p.error {
+    color: red;
+    font-size: small;
+}
+
+.input-error {
+    border-bottom: 1px solid red;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screnn and (max-width:500px){
+
+}
+@media screen and (max-width:1620px) {
+    .f-img {
+        max-width: 200px;
+        max-width: 200px;
+        min-width: 200px;
+        min-height: 200px;
+    }
+
+    form {
+        margin: auto;
+    }
+
+    body {
+        flex-direction: column-reverse;
+        width:100%;
+    }
+}

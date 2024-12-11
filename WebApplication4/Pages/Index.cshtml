@@ -1,0 +1,40 @@
+﻿@page
+
+@{
+    ViewData["Title"] = "Home page";
+}
+  <div class="img-container">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <img class="f-img" src="./static/img/iran.png" alt=""> 
+    </div> 
+    <form id="submit">
+        <h1 class="form-head">کند ایده</h1>
+        <p>تجربه مهندسی خلاق</p>
+        <p class="error" id="error-username"></p>
+        <div class="group">
+            <input name="name" type="text" class="input">
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label class="dir" for="name">نام کاربری</label>
+          </div>
+          <p class="error" id="error-password"></p>
+          <div class="group">
+            <input name="password" type="password" class="input" >
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label class="dir" for="name">کلمه عبور </label>
+          </div>
+          <a href="#" class="forget-pass">نام کاربری خود را فراموش کرده اید ؟</a>
+          <div class="btn-container">
+            <button  class="log-in">ورود به سامانه</button>
+          </div>
+          <div class="btn-container">
+            <p><div class="line"></div> حساب کاربری ندارید ؟<div class="line"></div></p>
+          </div>
+          <div class="btn-container">
+            <a class="log-in" href="/signup" target="_self"><p> ساخت حساب کاربری </p>
+            </a>
+          </div>
+    </form>  
+    <script src="~/js/script.js"></script>

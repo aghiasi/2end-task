@@ -1,0 +1,43 @@
+﻿@page
+@model WebApplication4.Pages.accountModel
+@{
+}
+
+
+<script src="./js/JavaScript.js"></script>
+<link rel="stylesheet" href="~/css/accountStyle.css" />
+
+    <div class="account-img">
+        <img src="./static/img/Screenshot 2024-12-11 103147.png" alt="" />
+        <button class="exit" id="exit" onclick="exitHandler()">
+            <img src="./static/img/Screenshot 2024-12-11 122551.png" alt="" />
+        </button>
+    </div>
+    <div class="account-details">
+        <h2>اطلاعات کاربری</h2>
+        <div class="row">
+            <p>نام:</p>
+            <p id="name"></p>
+        </div>
+        <div class="row">
+            <p>نام خانوادگی:</p>
+            <p id="family"></p>
+        </div>
+        <div class="row">
+            <p>نام کاربری:</p>
+            <p id="userName"></p>
+        </div>
+        <div class="row">
+            <p>ایمیل:</p>
+            <p id="email"></p>
+        </div>
+        <div class="row">
+            <p>شماره تماس:</p>
+            <p id="phone"></p>
+        </div>
+        <div class="row">
+            <p id="error"></p>
+            <p></p>
+        </div>
+    </div>
+
